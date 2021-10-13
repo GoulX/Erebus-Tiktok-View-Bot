@@ -1,1 +1,2 @@
-# Erebus-Tiktok-View-Bot
+# Erebus
+TikTok View bot
